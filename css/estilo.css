@@ -1,0 +1,134 @@
+body {
+	background-color: #FFFFD1;
+}
+
+ .container{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+header, footer{
+    background-color: #FFDA42;
+    padding: 1%;
+    margin: 0;
+}
+
+h1 { 
+	text-align: center;
+	color: #4C4300;	
+    line-height: 4;
+    font-size: 3em;
+    font-family: 'Cookie', cursive;
+}
+
+ul li{
+	color: #363636;
+	font-family: 'Mali', cursive;
+	  font-size: 1em
+}
+      
+h2, h3 {
+	color: #4C4300
+    line-height: 3;
+    font-size: 2em;
+    margin-bottom: 2%;
+	margin-top: 2%;
+	color: #4C4300;	
+
+}
+
+h3{
+	font-family: 'Mali', cursive;
+	  font-size: 1em
+}
+
+h2{
+	font-family: 'Cookie', cursive;
+	 font-size: 2em;
+
+}
+ 
+p{
+	margin-bottom: 2%;
+	margin-top: 2%;
+    font-family: 'Mali', cursive;
+    font-size: 1em
+}
+
+            
+figure{text-align: center;
+}
+
+
+
+img{
+	width: 40%;
+	height: 40%;
+ } 
+
+ table{
+ 	border-collapse: collapse;
+ 	color: #000000;
+ 	width:40%;
+ 	margin-right: auto;
+    margin-left: auto; 
+ }
+
+td,th{
+	border: 1px solid #4C4300;
+	padding: 2%
+    font-size: 1em
+}
+
+td,th {
+font-family: 'Mali', cursive;
+font-size: 1em;
+}
+
+tr:nth-child(even){
+	background-color: #FFFF85;
+	font-family: 'Mali', cursive;
+}
+
+
+a:link {
+  color: #4C4300;
+  background-color: transparent;
+  text-decoration: underline;
+  font-family: 'Mali', cursive;
+}
+
+a:visited {
+  color: #4C4300;
+  background-color: transparent;
+  text-decoration: underline;
+  font-family: 'Mali', cursive;
+}
+
+a:hover {
+  color: #000000;
+  background-color: transparent;
+  text-decoration: underline;
+  font-family: 'Mali', cursive;
+}
+
+a:active {
+  color:#4C4300 ;
+  background-color: transparent;
+  text-decoration: underline;
+  font-family: 'Mali', cursive;
+}
+
+.fixo{
+        position: fixed;
+        top: 0;
+        right: 0;
+        left: 0;
+        z-index: 1030;
+       
+  }
+
+  h4{
+    font-size: 1.5em;
+  }
